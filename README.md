@@ -1,4 +1,8 @@
-## Andrew Stephen Gibbs
+## <p align="center"> Andrew Gibbs </p>
+
+<p align="center"> asg1968@hotmail.co.uk </p>
+
+<p align="center"> <a href="#recent_projects">Recent Projects</a>  | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</a>  </p>
 
 A Makers Academy graduate, having successfully completed their highly selective intensive Full Stack Web Development bootcamp - although I have completed the course and passed the viva, I continue to attend the academy 5 days a week to further progress my skills, whilst also looking for my next role
 
@@ -51,7 +55,7 @@ Throughout my testing career I've always strived to deliver the required outcome
 
 - Access to Computing
 
-## Professional Experience
+## Experience
 **IFDS** (January 2014 to July 2017)    
 *Performance Testing Consultant*
 
