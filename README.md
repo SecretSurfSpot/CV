@@ -10,11 +10,11 @@ I'm an enthusiastic, determined and adaptable former Software Performance Testin
 
 ## Recent Projects
 
-| Project | Timeframe | Description | Technologies |
+| Project | Timeframe | Testing Framework | Language | Description |
 | ------------------------ | --------- | ----------- | ----------------- |
-|[Bank Tech Test](https://github.com/SecretSurfSpot/bank_tech_test_js)|3 days|Sample Tech Test for a banking application, built using BDD, TDD & OOP principles.|JavaScript, Jasmine|
-|[googleyEyes](https://github.com/SecretSurfSpot/googley-eyes)| 10 days| Final group project, googley Eyes is a chrome extension that monitors your browser activity and presents you with metrics of website usage. Built using BDD, TDD & OOP principles.|JavaScript, HTML5, CSS, Node based Jasmine, Selenium WebdriverIO|
-|[Thermostat](https://github.com/SecretSurfSpot/thermostat)| 5 days| Thermostat is a SPA (Single Page Application), which responds to user interaction, as well making a 'GET' call to an external API. Thermostat is built using BDD, TDD and OOP principles.| JavaScript, Jasmine|
+|[Bank Tech Test](https://github.com/SecretSurfSpot/bank_tech_test_js)| 3 days | Jasmine | JavaScript | Sample Tech Test for a banking application, built using BDD, TDD & OOP principles.|
+|[googleyEyes](https://github.com/SecretSurfSpot/googley-eyes)| 10 days| Node based Jasmine & Selenium + WebdriverIO | JavaScript, HTML5, CSS | Final group project, googley Eyes is a chrome extension that monitors your browser activity and presents you with metrics of website usage. Built using BDD, TDD & OOP principles.|
+|[Thermostat](https://github.com/SecretSurfSpot/thermostat)| 5 days| Jasmine | JavaScript | Thermostat is a SPA (Single Page Application), which responds to user interaction, as well making a 'GET' call to an external API. Built using BDD, TDD and OOP principles.|
 
 ## Skills
 
