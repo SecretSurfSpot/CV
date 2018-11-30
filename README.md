@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="#recent_projects">Recent Projects</a>  | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</a>  </p>
 
-A Makers Academy graduate, having successfully completed their highly selective intensive Full Stack Web Development bootcamp - although I have completed the course and passed the viva, I continue to attend the academy 5 days a week to further progress my skills, whilst also looking for my next role
+A Makers Academy graduate, having successfully completed their highly selective intensive Full Stack Web Development bootcamp course and passed the viva, I continue to attend the academy, 5 days a week, to further progress my skills, whilst also looking for my next role.
 
 I'm an enthusiastic, determined and adaptable former Software Performance Testing Consultant with over 10 years experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions. Making the transition from tester to developer, I look forward to a career developing high quality software solutions.
 
@@ -14,7 +14,7 @@ I'm an enthusiastic, determined and adaptable former Software Performance Testin
 | ------------------------ | --------- | ----------- | ----------------- |
 |[Bank Tech Test](https://github.com/SecretSurfSpot/bank_tech_test_js)|3 days|Sample Tech Test for a banking application, built using BDD, TDD & OOP principles.|JavaScript, Jasmine|
 |[googleyEyes](https://github.com/SecretSurfSpot/googley-eyes)| 10 days| Final group project, googley Eyes is a chrome extension that monitors your browser activity and presents you with metrics of website usage. Built using BDD, TDD & OOP principles.|JavaScript, HTML5, CSS, Node based Jasmine, Selenium WebdriverIO|
-|[Thermostat](https://github.com/SecretSurfSpot/thermostat)| 5 days| Initially created during pair-programming sessions. Rewritten to gain a better understanding of event listeners and how JavaScript can be utilised to create an interactive Single Page Application. The application also makes a GET call to an external API. Thermostat is built with JavaScript and Jasmine (testing framework), using BDD, TDD and OOP principles.| JavaScript, Jasmine|
+|[Thermostat](https://github.com/SecretSurfSpot/thermostat)| 5 days| Initially created during pair-programming sessions. Rewritten to gain a better understanding of event listeners and how JavaScript can be utilised to create an interactive Single Page Application. The application also makes a GET call to an external API. Thermostat is built using BDD, TDD and OOP principles.| JavaScript, Jasmine|
 
 ## Skills
 
