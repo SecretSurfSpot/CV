@@ -14,7 +14,7 @@ I'm an enthusiastic, determined and adaptable former Software Performance Testin
 | ------------------------ | --------- | ----------- | ----------------- |
 |[Bank Tech Test](https://github.com/SecretSurfSpot/bank_tech_test_js)|3 days|Sample Tech Test for a banking application, built using BDD, TDD & OOP principles.|JavaScript, Jasmine|
 |[googleyEyes](https://github.com/SecretSurfSpot/googley-eyes)| 10 days| Final group project, googley Eyes is a chrome extension that monitors your browser activity and presents you with metrics of website usage. Built using BDD, TDD & OOP principles.|JavaScript, HTML5, CSS, Node based Jasmine, Selenium WebdriverIO|
-|[Thermostat](https://github.com/SecretSurfSpot/thermostat)| 5 days| Initially created during pair-programming sessions. Rewritten to gain a better understanding of event listeners and how JavaScript can be utilised to create an interactive Single Page Application. The application also makes a GET call to an external API. Thermostat is built using BDD, TDD and OOP principles.| JavaScript, Jasmine|
+|[Thermostat](https://github.com/SecretSurfSpot/thermostat)| 5 days| Thermostat is a SPA (Single Page Application), which responds to user interaction, as well making a 'GET' call to an external API. Thermostat is built using BDD, TDD and OOP principles.| JavaScript, Jasmine|
 
 ## Skills
 
