@@ -14,7 +14,11 @@
   <br>
 </h3>
 
+------------------------------------------------------------------------------
+
 I'm an enthusiastic, determined and adaptable Makers Academy graduate and former Software Performance Testing Consultant with over 10 years experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions. Making the transition from tester to developer, I look forward to a career developing high quality software solutions.
+
+------------------------------------------------------------------------------
 
 ## Projects
 
@@ -46,16 +50,16 @@ Throughout my testing career I've always strived to deliver the required outcome
 ## Education
 
 #### Makers Academy (July 2018 to October 2018)
-A Makers, I successfully completed their highly selective intensive Full Stack Web Development bootcamp.
+A highly selective, intensive, Full Stack Web Development bootcamp.
 - TDD, BDD, OOP
 - Ruby, Sinatra, JavaScript, jQuery
 - HTML5, CSS, Bootstrap
 - RSpec, Capybara, Jasmine
-- PostGgreSQL, sqlite3, Actvie Record
+- PostGgreSQL, sqlite3, Active Record
 - Github
 
 #### University of Greenwich (September 2000 to June 2004)
-At Greenwich University I studied Computing Science (Sandwich degree with a placement at Charterhouse School).
+Computing Science (Sandwich degree with a placement at Charterhouse School).
 - BSc (Hons) Computing Science
 - 2:1
 
