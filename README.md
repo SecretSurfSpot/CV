@@ -7,8 +7,8 @@
   <a href="#skills">Skills</a> |
   <a href="#education">Education</a> |
   <a href="#experience">Experience</a> |
-  <a href="#additional_achievements">Additional Achievements</a> |
-  <a href="#interests_and_hobbies">Interests and Hobbies</a> |
+  <a href="#other achievements">Additional Achievements</a> |
+  <a href="#interests">Interests</a> |
   <a href="#referees">Referees</a> |  
   | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</b></a>
   <br>
@@ -114,13 +114,13 @@ Planned and organised infrastructure, environment, DBA, application support, sch
 - Installed double glazed windows / doors / conservatories.
 - Co-ordinated multi team installations and the training of junior installers.
 
-## Additional Achievements
+## Other Achievements
 - 2009-2017: Completed several Olympic Triathlons, including London and Hever Castle.
 - 1998 / 2001: Attained PADI ‘Open Water Diver’ and ‘Advanced Open Water Diver’ certification in Australia and Bali.
 - 1991: Completed Level 1 RYA Windsurfing course and gained certification whilst living in Cornwall.
 - 1990: Awarded ‘Best Senior Boxer’ for the 1989/90 season at Launceston Amateur Boxing Club.
 
-## Interests and Hobbies
+## Interests
 - Sports: Surfing, skiing, scuba diving, running, swimming, cycling & generally keeping fit.
 - Ceroc (Modern Jive).
 - Travel: Highlights include motorbiking around Vietnam, Laos and Cambodia, catching waves in Indonesia and a secret surf spot on a small island in the Philippines.
