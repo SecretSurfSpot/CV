@@ -2,11 +2,23 @@
 
 <p align="center"> asg1968@hotmail.co.uk </p>
 
-<p align="center"> <a href="#recent_projects">Recent Projects</a>  | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#additional_achievements">Additional Achievements</a> |<a href="#interests_and_hobbies">Interests and Hobbies</a> | <a href="#referees">Referees</a> | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</a>  </p>
+<h3 align="center">
+  <a href="#projects"><b>Projects</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#education">Education</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#additional_achievements">Additional Achievements</a> |
+  <a href="#interests_and_hobbies">Interests and Hobbies</a> |
+  <a href="#referees">Referees</a> |  
+  | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</b></a>
+  <br>
+</h3>
+
+<!-- <p align="center"> <a href="#recent_projects">Recent Projects</a>  | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#additional_achievements">Additional Achievements</a> | <a href="#interests_and_hobbies">Interests and Hobbies</a> | <a href="#referees">Referees</a> | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</a>  </p> -->
 
 I'm an enthusiastic, determined and adaptable Makers Academy graduate and former Software Performance Testing Consultant with over 10 years experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions. Making the transition from tester to developer, I look forward to a career developing high quality software solutions.
 
-## Recent Projects
+## Projects
 
 | Project | Duration | Testing Framework | Language | Description |
 | ------------------------ | --------- | --------- | ----------- | ----------------- |
