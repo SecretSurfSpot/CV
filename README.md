@@ -46,7 +46,7 @@ Throughout my testing career I've always strived to deliver the required outcome
 ## Education
 
 #### Makers Academy (July 2018 to October 2018)
-
+A Makers, I successfully completed their highly selective intensive Full Stack Web Development bootcamp.
 - TDD, BDD, OOP
 - Ruby, Sinatra, JavaScript, jQuery
 - HTML5, CSS, Bootstrap
@@ -55,12 +55,12 @@ Throughout my testing career I've always strived to deliver the required outcome
 - Github
 
 #### University of Greenwich (September 2000 to June 2004)
-
+At Greenwich University I studied Computing Science (Sandwich degree with a placement at Charterhouse School).
 - BSc (Hons) Computing Science
 - 2:1
 
-#### Waltham Forest College
-
+#### Waltham Forest College (September 1999 to June 2000)
+At Waltham Forest College I successfully completed their Access to Computing course.
 - Access to Computing
 
 ## Experience
