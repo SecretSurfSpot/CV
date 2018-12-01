@@ -7,14 +7,12 @@
   <a href="#skills">Skills</a> |
   <a href="#education">Education</a> |
   <a href="#experience">Experience</a> |
-  <a href="#other achievements">Additional Achievements</a> |
+  <a href="#additional_achievements">Additional Achievements</a> |
   <a href="#interests">Interests</a> |
   <a href="#referees">Referees</a> |  
-  | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</b></a>
   <br>
 </h3>
-
-<!-- <p align="center"> <a href="#recent_projects">Recent Projects</a>  | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#additional_achievements">Additional Achievements</a> | <a href="#interests_and_hobbies">Interests and Hobbies</a> | <a href="#referees">Referees</a> | <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</a>  </p> -->
 
 I'm an enthusiastic, determined and adaptable Makers Academy graduate and former Software Performance Testing Consultant with over 10 years experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions. Making the transition from tester to developer, I look forward to a career developing high quality software solutions.
 
@@ -114,7 +112,7 @@ Planned and organised infrastructure, environment, DBA, application support, sch
 - Installed double glazed windows / doors / conservatories.
 - Co-ordinated multi team installations and the training of junior installers.
 
-## Other Achievements
+## Additional Achievements
 - 2009-2017: Completed several Olympic Triathlons, including London and Hever Castle.
 - 1998 / 2001: Attained PADI ‘Open Water Diver’ and ‘Advanced Open Water Diver’ certification in Australia and Bali.
 - 1991: Completed Level 1 RYA Windsurfing course and gained certification whilst living in Cornwall.
