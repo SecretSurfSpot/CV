@@ -7,7 +7,7 @@
   <a href="#skills">Skills</a> |
   <a href="#education">Education</a> |
   <a href="#experience">Experience</a> |
-  <a href="#additional_achievements">Additional Achievements</a> |
+  <a href="#additional-achievements">Additional Achievements</a> |
   <a href="#interests">Interests</a> |
   <a href="#referees">Referees</a> |  
   <a href="https://www.linkedin.com/in/andrew-gibbs-3b941315/">LinkedIn</b></a>
