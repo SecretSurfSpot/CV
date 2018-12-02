@@ -16,7 +16,9 @@
 
 ------------------------------------------------------------------------------
 
-I'm an enthusiastic, determined and adaptable Makers Academy graduate and former Software Performance Testing Consultant with over 10 years experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions. Making the transition from tester to developer, I look forward to a career developing high quality software solutions.
+I'm an enthusiastic, determined and adaptable full stack web developer and former Software Performance Testing Consultant with over 10 years experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions. 
+
+Making the transition from tester to developer, I recently completed the [Makers Academy](https://makers.tech/about-us/) 16-week software bootcamp and look forward to a career developing high quality software solutions.
 
 ------------------------------------------------------------------------------
 
