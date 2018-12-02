@@ -16,7 +16,7 @@
 
 ------------------------------------------------------------------------------
 
-I'm an enthusiastic, determined and adaptable full stack web developer and former Software Performance Testing Consultant with over 10 years experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions. 
+Enthusiastic, determined and adaptable full stack web developer and former Software Performance Testing Consultant. Backed with a Computing Science degree, and 13 years software testing experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions.
 
 Making the transition from tester to developer, I recently completed the [Makers Academy](https://makers.tech/about-us/) 16-week software bootcamp and look forward to a career developing high quality software solutions.
 
@@ -32,17 +32,25 @@ Making the transition from tester to developer, I recently completed the [Makers
 
 ## Skills
 
-#### Technical: LoadRunner, C, SQL, VBA
+#### Analytical
 
-During several projects I've used LoadRunner, a Performance Testing tools, to record test scripts. Using C, I've customised the scripts to ensure they're completely fit for purpose. I've written SQL queries to extract various forms of data from databases. I've written macros in VBA to process various types of raw data (such as Server CPU usage stats) and present the data in graphical format.   
+Throughout my software testing consultant career, as well as at Makers, I’ve been required to break down ‘challenges’ and arrive at a satisfactory ‘solutions’.
 
-#### Strategising
+Whilst performance testing Aviva’s web service gateway, I was given a complex load profile from the architects. Utilising a selection of existing test scripts, tailoring some new ones, and using ‘if’ and ‘while’ statement logic, I was able to successfully simulate the require load.
 
-For over 10 years I've created test strategies for various clients and projects. Liaising with a multitude of SME (subject matter experts) including Architects, BAs, DBAs and Environment teams has enable me to build a complete picture of the overall system, it's requirements and to devise and document a successful testing strategy.
+Whilst at Makers, I used various modelling techniques, (CRC and Domain Modelling) to break down system requirements, which then enabled me to derive with the necessary objects (classes, methods, databases/relevant db tables) to build the required application.  
 
-#### Delivery
+#### Communication & Collaboration
 
-Throughout my testing career I've always strived to deliver the required outcomes on time. Whilst working for several clients, including Aviva and IFDS timelines we often very tight; prioritising deliverables and identifying the best approach to complete each one helped lead to successful outcomes.
+Working as a testing consultant necessitated strong verbal and written communications skills, as well as an ability to collaborate with various individuals from multiple teams; for instance when creating test strategies I was required to liaise with project managers, developers, BAs, DBAs, architects and environment managers.
+
+Having these skills really helped whilst working solo, as well as in teams on the Makers course, and will serve me well going forward as full stack web developer.
+
+#### Determination & Dedication
+
+I’ve been told, by previous managers and peers, that I’m one of the most determined people they have ever met.
+
+My determination has taken me from being a double glazing installer, to completing a computer science degree and working for several blue chip companies as a software testing consultant, and on to becoming a full stack web developer; if you don’t give in, you’ll always win!
 
 #### Additional Skills
 
