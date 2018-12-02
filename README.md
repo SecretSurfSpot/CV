@@ -16,7 +16,9 @@
 
 ------------------------------------------------------------------------------
 
-Enthusiastic, determined and adaptable full stack web developer and former Software Performance Testing Consultant. Backed with a Computing Science degree, and 13 years software testing experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions.
+I'm an enthusiastic, determined and adaptable full stack web developer and former Software Performance Testing Consultant, with a Computing Science degree.
+
+I have 13 years software testing experience in various sectors; including Finance, Insurance, Banking, Utilities and Pensions.
 
 Making the transition from tester to developer, I recently completed the [Makers Academy](https://makers.tech/about-us/) 16-week software bootcamp and look forward to a career developing high quality software solutions.
 
@@ -61,7 +63,7 @@ My determination has taken me from being a double glazing installer, to completi
 
 #### Makers Academy (July 2018 to October 2018)
 A highly selective, intensive, Full Stack Web Development bootcamp.
-- TDD, BDD, OOP
+- TDD, BDD, OOP, XP, Agile, Pair Programming
 - Ruby, Sinatra, JavaScript, jQuery
 - HTML5, CSS, Bootstrap
 - RSpec, Capybara, Jasmine
