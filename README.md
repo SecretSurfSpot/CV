@@ -26,7 +26,7 @@ Making the transition from tester to developer, I recently completed the [Makers
 
 ## Projects
 
-| Project | Duration | Testing Framework | Language | Description |
+| Project | Duration | Testing | Language | Description |
 | ------------------------ | --------- | --------- | ----------- | ----------------- |
 |[Bank Tech Test](https://github.com/SecretSurfSpot/bank_tech_test_js)| 3 days | Jasmine | JavaScript | Sample Tech Test for a banking application, built using BDD, TDD & OOP principles.|
 |[googleyEyes](https://github.com/SecretSurfSpot/googley-eyes)| 10 days| Node based Jasmine & Selenium + WebdriverIO | JavaScript, HTML5, CSS | Final group project, googley Eyes is a chrome extension that monitors your browser activity and presents you with metrics of website usage. Built using BDD, TDD & OOP principles.|
