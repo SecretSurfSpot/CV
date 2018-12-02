@@ -36,7 +36,7 @@ Making the transition from tester to developer, I recently completed the [Makers
 
 #### Analytical
 
-Throughout my software testing consultant career, as well as at Makers, I’ve been required to break down ‘challenges’ and arrive at a satisfactory ‘solutions’.
+Throughout my software testing consultant career, as well as at Makers, I’ve been required to break down ‘challenges’ and create satisfactory ‘solutions’.
 
 Whilst performance testing Aviva’s web service gateway, I was given a complex load profile from the architects. Utilising a selection of existing test scripts, tailoring some new ones, and using ‘if’ and ‘while’ statement logic, I was able to successfully simulate the require load.
 
@@ -52,7 +52,7 @@ Having these skills really helped whilst working solo, as well as in teams on th
 
 I’ve been told, by previous managers and peers, that I’m one of the most determined people they have ever met.
 
-My determination has taken me from being a double glazing installer, to completing a computer science degree and working for several blue chip companies as a software testing consultant, and on to becoming a full stack web developer; if you don’t give in, you’ll always win!
+My determination has taken me from being a double glazing installer, to completing a computing science degree and working for several blue chip companies as a software testing consultant, and on to becoming a full stack web developer; if you don’t give in, you’ll always win!
 
 #### Additional Skills
 
