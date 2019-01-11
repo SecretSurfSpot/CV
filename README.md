@@ -28,10 +28,10 @@ Making the transition from tester to developer, I recently completed the [Makers
 
 | Project | Duration | Testing | Language | Description |
 | ------------------------ | --------- | --------- | ----------- | ----------------- |
+| [Seedlings](https://github.com/SecretSurfSpot/seedlings)| 4 days | RSpec, Capybara | Ruby, Sinatra, PostGgreSQL, HTML5, CSS | Tech test, Seedlings is a mini Seedrs clone, that allows you to view and invest in companies looking for funding. Built using BDD, TDD & OOP principles.|
 | [Anagram Finder](https://github.com/SecretSurfSpot/anagram_finder)| 1.5 days | RSpec | Ruby | Tech test, Anagram Finder is an application, that verifies if a word is an anagram of any of the words stored in a given file. Built using BDD, TDD & OOP principles.|
 |[Bank Tech Test](https://github.com/SecretSurfSpot/bank_tech_test_js)| 3 days | Jasmine | JavaScript | Sample Tech Test for a banking application. Built using BDD, TDD & OOP principles.|
 |[googleyEyes](https://github.com/SecretSurfSpot/googley-eyes)| 10 days (group project)| Node based Jasmine & Selenium + WebdriverIO | JavaScript, HTML5, CSS | Final group project, googley Eyes is a chrome extension that monitors your browser activity and presents you with metrics of website usage. Built using BDD, TDD & OOP principles.|
-| [MakersBnB](https://github.com/SecretSurfSpot/makersbnb)| 5 days (group project)| RSpec | Ruby, Sinatra, PostGgreSQL, Active Record, HTML5, CSS | First group project, MakersBnB (AirBnB clone) allows users to sign-up, view available properties and list their own property. Built using BDD, TDD & OOP principles.|
 |[Thermostat](https://github.com/SecretSurfSpot/thermostat)| 3 days| Jasmine | JavaScript | Thermostat is a SPA (Single Page Application), which responds to user interaction, as well making a 'GET' call to an external API. Built using BDD, TDD and OOP principles.|
 
 ## Skills
