@@ -40,7 +40,7 @@ Making the transition from tester to developer, I recently completed the [Makers
 
 Throughout my software testing consultant career, as well as at Makers, I’ve been required to break down ‘challenges’ and create satisfactory ‘solutions’.
 
-Whilst performance testing Aviva’s web service gateway, I was given a complex load profile from the architects. Utilising a selection of existing test scripts, tailoring some new ones, and using ‘if’ and ‘while’ statement logic, I was able to successfully simulate the require load.
+Whilst performance testing Aviva’s web service gateway, I was given a complex load profile from the architects. Utilising a selection of existing test scripts, tailoring some new ones, and using ‘if’ and ‘while’ statement logic, I was able to successfully simulate the required load.
 
 Whilst at Makers, I used various modelling techniques, (CRC and Domain Modelling) to break down system requirements, which then enabled me to derive with the necessary objects (classes, methods, databases/relevant db tables) to build the required application.  
 
