@@ -82,9 +82,7 @@ At Waltham Forest College I successfully completed their Access to Computing cou
 - Access to Computing
 
 ## Experience
-**IFDS** (January 2014 to July 2017)
-(Jan 2014 - Feb 2015 via SQS)
-(March 2015 - July 2017 via AG Software Testing Ltd)   
+**IFDS** (January 2014 to July 2017: Jan 2014 - Feb 2015 via SQS; March 2015 - July 2017 via AG Software Testing Ltd)   
 *Performance Testing Consultant*
 
 Slalom and Oval Projects:
