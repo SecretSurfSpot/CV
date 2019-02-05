@@ -82,13 +82,15 @@ At Waltham Forest College I successfully completed their Access to Computing cou
 - Access to Computing
 
 ## Experience
-**IFDS** (January 2014 to July 2017)    
+**IFDS** (January 2014 to July 2017)
+(Jan 2014 - Feb 2015 via SQS)
+(March 2015 - July 2017 via AG Software Testing Ltd)   
 *Performance Testing Consultant*
 
 Slalom and Oval Projects:
 - Managed the Performance Testing Team. Liaised with business, developers and environment SMEs and project managers to obtain information to enable the production of the Performance Test Strategies & Plans for the Bluedoor element of both the Slalom and Oval projects. Introduced a more robust methodology to the performance testing team, as well as creating several keys assets, including a test execution log, test report templates, test result processing templates, Issues log (prior to ALM) and a test process document. Coordinated the testing Batch, UI and Data Migration testing. Provided guidance to new team members on how to test the E2E batch schedule. Created a utility to extract batch test details from the SQL DB, process those details and present the results in table and graphical format. Created and delivered Weekly & Monthly Status Reports and End of Cycle test reports.
 
-**StarBase** (April 2012 to December 2013)    
+**StarBase** (April 2012 to December 2013)   
 *Performance Testing Consultant*
 
 Clients included:
